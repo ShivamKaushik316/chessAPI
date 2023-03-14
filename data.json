@@ -1,0 +1,102 @@
+[
+{
+
+
+"ranking":1,
+"name": "Magnus Carlsen",
+"dob":"30 November 1990 " ,
+"country" : "Norway",
+"rating": 2852
+} ,
+{
+
+"ranking":2,
+"name":"Ian Nepomniactchi",
+"dob":"14 July 1990",
+"country":"Russia",
+"rating":2795
+ 
+},
+
+
+
+
+{
+
+"ranking":3,
+"name":"Liren Ding",
+"dob":"24 October 1992 ",
+"country":"China",
+"rating":2788
+ 
+},
+{
+
+
+"ranking":4,
+"name":"Alireza Firouzia",
+"dob":" 18 June 2003 ",
+"country":"France",
+"rating":2785
+},
+ 
+{
+
+"ranking":5,
+"name":"Anish Giri",
+"dob":"28 June 1994 ",
+"country":"Netharlands",
+"rating":2768
+},
+
+{
+
+
+
+"ranking":6,
+"name":"Hikaru Nakamura",
+"dob":"9 December 1987",
+"country":"USA",
+"rating":2768
+},
+
+{
+
+
+"ranking":7,
+"name":"Faniano Caruana",
+"dob":"30 July 1992",
+"country":"USA",
+"rating":2766
+},
+{
+
+
+"ranking":8,
+"name":"Wesley So",
+"dob":"9 October 1993",
+"country":"USA",
+"rating":2761
+},
+
+{
+
+
+"ranking":9,
+"name":"Vishwanathan Anand",
+"dob":"11 December 1969",
+"country":"India",
+"rating":2754
+ 
+},
+{
+
+
+"ranking":10,
+"name":"Teimour Radjabov",
+"dob":"12 March 1987 ",
+"country":"Azerbaijan",
+"rating":2747
+}
+
+]
